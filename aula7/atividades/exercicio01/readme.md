@@ -1,4 +1,5 @@
-Criar classe Forma com método area().
-• Criar Retangulo e Circulo sobrescrevendo area().
-• Criar uma lista de Forma com vários objetos e somar as
-áreas.
+## Exercício 1
+
+- Criar classe `Forma` com método `area()`.
+- Criar `Retangulo` e `Circulo`, sobrescrevendo `area()`.
+- Criar lista de `Forma` com vários objetos e somar áreas.
